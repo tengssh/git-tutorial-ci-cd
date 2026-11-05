@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(int argc, char* argv[]) {
-    printf("TODO: CHANGE MY MESSAGE!\n");
+    printf("Hello, CI/CD!\n");
     return 0;
 }
